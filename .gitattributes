@@ -6,5 +6,5 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
-*.xcmake linguist-detectable=false 
+*.cmake linguist-detectable=false 
 
