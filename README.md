@@ -1,4 +1,4 @@
-# Basic Quiz App Practice
+# Witcher Quiz App Practice
 
 ![Flutter](https://img.shields.io/badge/Flutter-Quiz%20App%20Practice-brightgreen.svg)
 
