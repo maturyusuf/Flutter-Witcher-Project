@@ -29,7 +29,7 @@ The Basic Quiz App offers the following features:
 ## Screenshots
 ![ekran_g__r__nt__s___20221230_101545](https://github.com/maturyusuf/Flutter-Witcher-Project/assets/75329717/6b77521e-638d-402b-9c6e-1365100fc1b2)
 
-![ekran_g__r__nt__s___20221230_101545](https://github.com/maturyusuf/Flutter-Witcher-Project/assets/75329717/e7ee9417-84fa-4095-a506-9163a0b6b84d)
+![ekran_g__r__nt__s___20221230_101506](https://github.com/maturyusuf/Flutter-Witcher-Project/assets/75329717/b95a8ee4-1e8d-4263-acff-1e1b91d3850b)
 
 ## Getting Started
 
